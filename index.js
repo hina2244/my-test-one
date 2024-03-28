@@ -1,2 +1,4 @@
-var greet = 'Hello';
-console.log(greet);
+let greet = 'Hello';
+let userName = 'Sir Ameem';
+console.log(greet + ' ' + userName);
+export {};
